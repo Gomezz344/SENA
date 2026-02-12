@@ -4,3 +4,4 @@ capital = float(input("Ingrese su capital: "))
 meses = int(input("Ingrese los meses: "))
 tasa_intereses = float(input("Ingrese la tasa de intereses: "))
 
+# commit 2
