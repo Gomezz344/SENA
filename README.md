@@ -33,12 +33,3 @@
 - Algoritmos de ordenamiento: burbuja y selección
 - Introducción a la complejidad algorítmica (O grande)
 
----
-
-## 🎯 ¿A quién va dirigido?
-
-Este taller está pensado para **principiantes absolutos** — no necesitas ningún conocimiento previo en programación. Solo trae ganas de aprender.
-
----
-
-*Taller creado con 💛 por Emmanuel Gómez*
